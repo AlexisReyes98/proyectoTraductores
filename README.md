@@ -35,11 +35,11 @@ c) Uso del analizador
 
     Se debe dar click derecho en el editor IntelliJ sobre la clase Interfaz para ejecutarla. 
     
--> Click en 'Buscar archivo'
-  -> Seleccionar cualquier_archivo.ru
+    -> Click en 'Buscar archivo'
+    -> Seleccionar cualquier_archivo.ru
     -> El contenido del archivo se muestra en el campo de texto de la izquierda.
-      -> Click en Traducir
-        -> Los resultados se muestran en el campo de texto de la derecha
+    -> Click en Traducir
+    -> Los resultados se muestran en el campo de texto de la derecha
  
 Caso de uso:
  
