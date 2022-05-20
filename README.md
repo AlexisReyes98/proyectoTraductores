@@ -40,3 +40,4 @@ c) Uso del analizador
     -> El contenido del archivo se muestra en el campo de texto de la izquierda.
       -> Click en Traducir
         -> Los resultados se muestran en el campo de texto de la derecha
+![cap1](https://user-images.githubusercontent.com/72325257/169454450-527a8b26-24c6-420c-9226-197d4f55c17e.png)
