@@ -52,7 +52,7 @@ Buscador de archivos (pueden ser .ru o .txt):
 ![cap6](https://user-images.githubusercontent.com/72325257/169456377-27a72563-fbd9-418d-9cee-6e3fe2611c4e.png)
 
 Después de seleccionar el archivo de entrada, el contenido aparece en el recuadro de la izquierda.
-Dejamos varios ejemplos en el repoitorio pero aquí destacamos la secuencia de Fibonacci:
+Dejamos varios ejemplos en el repositorio pero aquí destacamos la secuencia de Fibonacci:
 
 ![cap7](https://user-images.githubusercontent.com/72325257/169456590-1215cabd-a633-49f9-8971-e2c27af4441a.png)
 
