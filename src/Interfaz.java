@@ -151,7 +151,7 @@ public class Interfaz extends javax.swing.JFrame {
             RuParser parser = new RuParser(new CommonTokenStream(lexer));
             ParseTree tree = parser.programa();
             Visitador visitor = new Visitador();
-            //visitor.visit(tree);
+            visitor.visit(tree);
 
             //jTextArea2.setText(tree.toStringTree(parser));
             //jTextArea2.setText(tree.toStringTree(parser).toString());
