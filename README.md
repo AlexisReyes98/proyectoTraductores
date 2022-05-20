@@ -49,12 +49,13 @@ Interfaz principal:
 
 Buscador de archivos (pueden ser .ru o .txt):
 
-![cap2](https://user-images.githubusercontent.com/72325257/169454597-7b62a021-c94c-446c-bf78-d0b4a6464d30.png)
+![cap6](https://user-images.githubusercontent.com/72325257/169456377-27a72563-fbd9-418d-9cee-6e3fe2611c4e.png)
 
-Después de seleccionar el archivo de entrada, el contenido aparece en el recuadro de la izquierda:
+Después de seleccionar el archivo de entrada, el contenido aparece en el recuadro de la izquierda.
+Dejamos varios ejemplos en el repoitorio pero aquí destacamos la secuencia de Fibonacci:
 
-![cap3](https://user-images.githubusercontent.com/72325257/169454625-171920da-4698-4328-9666-c867a35a4bd4.png)
+![cap7](https://user-images.githubusercontent.com/72325257/169456590-1215cabd-a633-49f9-8971-e2c27af4441a.png)
 
 Después de precionar el botón de "Traducir" obtenemos el resultado en el recuadro de la derecha:
 
-![cap4](https://user-images.githubusercontent.com/72325257/169454644-43b8e2ac-be9b-4d47-b410-4a0c91f61cb0.png)
+![cap8](https://user-images.githubusercontent.com/72325257/169456649-b241afc7-26b5-4be4-a96a-081896614f78.png)
