@@ -59,3 +59,7 @@ Dejamos varios ejemplos en el repositorio pero aquí destacamos la secuencia de 
 Después de precionar el botón de "Traducir" obtenemos el resultado en el recuadro de la derecha:
 
 ![cap8](https://user-images.githubusercontent.com/72325257/169456649-b241afc7-26b5-4be4-a96a-081896614f78.png)
+
+Autores:
+Alexander Lopez Plata
+Giovanny Alexis Reyes Vilchis
