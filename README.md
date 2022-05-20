@@ -41,12 +41,20 @@ c) Uso del analizador
       -> Click en Traducir
         -> Los resultados se muestran en el campo de texto de la derecha
  
- Caso de uso:
+Caso de uso:
  
+Interfaz principal:
+
 ![cap1](https://user-images.githubusercontent.com/72325257/169454450-527a8b26-24c6-420c-9226-197d4f55c17e.png)
+
+Buscador de archivos (pueden ser .ru o .txt):
 
 ![cap2](https://user-images.githubusercontent.com/72325257/169454597-7b62a021-c94c-446c-bf78-d0b4a6464d30.png)
 
+Después de seleccionar el archivo de entrada, el contenido aparece en el recuadro de la izquierda:
+
 ![cap3](https://user-images.githubusercontent.com/72325257/169454625-171920da-4698-4328-9666-c867a35a4bd4.png)
+
+Después de precionar el botón de "Traducir" obtenemos el resultado en el recuadro de la derecha:
 
 ![cap4](https://user-images.githubusercontent.com/72325257/169454644-43b8e2ac-be9b-4d47-b410-4a0c91f61cb0.png)
