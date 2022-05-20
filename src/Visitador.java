@@ -65,6 +65,7 @@ public class Visitador  extends RuBaseVisitor<Value>{
     @Override public Value visitImprimir(RuParser.ImprimirContext ctx) {
         Value value = this.visit(ctx.expr());
         System.out.println(value);
+        salidaConsola += value.asString() + "\n";
         return value;
     }
 
