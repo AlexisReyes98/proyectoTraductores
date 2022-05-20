@@ -61,5 +61,5 @@ Después de precionar el botón de "Traducir" obtenemos el resultado en el recua
 ![cap8](https://user-images.githubusercontent.com/72325257/169456649-b241afc7-26b5-4be4-a96a-081896614f78.png)
 
 Autores:
-Alexander Lopez Plata
+Alexander Lopez Plata y
 Giovanny Alexis Reyes Vilchis
