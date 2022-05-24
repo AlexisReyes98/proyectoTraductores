@@ -1,7 +1,8 @@
 # ANTLR
-Para realizar el proyecto se utilizó el IDE de IntelliJ IDEA Community y el jar de antlr-4.10.1-complete
+Para realizar el proyecto se utilizó el IDE de IntelliJ IDEA Community y el jar de antlr-4.10.1-complete.
 
-LENGUAJE RU
+Traductor para el LENGUAJE RU.
+
 a) Contaremos con una interfaz de usuario. La interfaz de usuario dará la
 posibilidad de ingresar el código que será traducido y en otra parte de
 la ventana me mostrará el resultado de la ejecución o salida. Es decir,
