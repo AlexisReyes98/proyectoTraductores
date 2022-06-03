@@ -1,4 +1,7 @@
 # ANTLR
+
+UEA: Traductores (Proyecto Final).
+
 Para realizar el proyecto se utilizó el IDE de IntelliJ IDEA Community, el jar de antlr-4.10.1-complete y la versión 17 del jdk de Java.
 
 Traductor para el LENGUAJE RU.
